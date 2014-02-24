@@ -2,7 +2,7 @@
 //  ViewController.m
 //  GeoLocation
 //
-//  Created by bbpan on 2/21/14.
+//  Created by Sam Fung on 2/21/14.
 //  Copyright (c) 2014 sfng.co. All rights reserved.
 //
 
